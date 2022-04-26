@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: pink;
+    height: 300vh;
+}
+
+img{
+    margin-top: 20vh;
+    position: sticky;
+    top: 0px;
+    left: 150px;
+    width: 600px;
+    height: 400px;
+    background: blue;
+}
+
+button{
+    display: flex;
+    ;
+}
+
