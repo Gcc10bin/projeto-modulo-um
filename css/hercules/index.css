@@ -1,26 +1,42 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
 }
 
-body{
-    background-color: pink;
-    height: 300vh;
+body {
+    background-color: rgb(226, 250, 255);
+    background-image: url("https://media2.giphy.com/media/1xp1v6Y6bgvrQ6vHG1/giphy.gif?cid=790b761179efbfa474cad5271dc5d49f1804c72a6d58c0bb&rid=giphy.gif&ct=g");    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 50% auto;
+    background-size: 3em% 25%;
+    background-size: auto 6px;
+    background-size: auto auto;
 }
 
-img{
-    margin-top: 20vh;
-    position: sticky;
-    top: 0px;
-    left: 150px;
-    width: 600px;
-    height: 400px;
-    background: blue;
-}
-
-button{
+.pai {
     display: flex;
-    ;
+    justify-content: space-between;    
 }
 
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0vh;
+}
+
+
+a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+
+
+
+  
