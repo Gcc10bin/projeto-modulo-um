@@ -3,6 +3,10 @@ body{
     text-align: center;
 }
 
+.centralizar-texto{
+    text-align: justify;
+}
+
 img{
     margin-bottom: 10vh;
 }
@@ -31,4 +35,7 @@ main{
     text-align: center;
 }
 
+footer{
+    text-align: center;
+}
 
