@@ -11,7 +11,7 @@ function validacaoDeDados(){
         if(escolhaUmaOpcao == '1'){
             window.location.href = 'game-win.html';
         } else{
-            window.location.href = 'game-over.html';
+            window.location.href = 'index.html';
         }
     }   proximaFase();
 }

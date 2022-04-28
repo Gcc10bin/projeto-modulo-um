@@ -7,3 +7,22 @@ img{
     margin-bottom: 10vh;
 }
 
+nav{
+    align-items: center;
+}
+
+div{
+    background-color: rgb(251, 248, 214);
+    height: 200px;    
+}
+
+.faseum{
+    text-align: center;
+}
+
+#fasetres{
+    text-align: center;
+}
+
+
+
