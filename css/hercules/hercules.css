@@ -2,19 +2,15 @@
      background-color: rgb(255, 255, 148);
 }
 
-
-#subtitulo{
-    text-align: end;
-}
-
-#fasetres{
+.faseum{
     text-align: center;
 }
 
-#faseatual{
-    text-align: center;
+.win{
+    display: flex;
+    float: left;
 }
 
-#contexto{
-    text-align: center;    
+#pag{
+    width: 20vh;
 }
