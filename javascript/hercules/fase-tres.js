@@ -9,10 +9,10 @@ function validacaoDeDados(){
         } 
     } function proximaFase(){
         if(escolhaUmaOpcao == '1'){
-            window.location.href = 'game-win.html';
+            window.location.href = 'game-over.html';
         } else{
-            window.location.href = 'index.html';
-        }
+            window.location.href = 'game-win.html';
+        } 
     }   proximaFase();
 }
 
