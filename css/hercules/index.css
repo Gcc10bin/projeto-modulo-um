@@ -7,13 +7,14 @@ img{
     margin-bottom: 10vh;
 }
 
-nav{
-    align-items: center;
+.formatoDoBotao{
+    text-align: center;
 }
 
 div{
-    background-color: rgb(251, 248, 214);
-    height: 200px;    
+    
+    height: 30vh;    
+    margin-bottom: 0vh;
 }
 
 .faseum{
